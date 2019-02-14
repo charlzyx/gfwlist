@@ -1,0 +1,20 @@
+{
+  "name": "gfwlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "up": "base64 -i gfw.txt -o gfwbase64.txt && git add . && git commit -m \"update gfw\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlzyx/gfwlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlzyx/gfwlist/issues"
+  },
+  "homepage": "https://github.com/charlzyx/gfwlist#readme"
+}
