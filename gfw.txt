@@ -16,8 +16,6 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !--CHAO
-||ant.design
-||baidu.com/
 ||ip138.com/
 ||ant.design/
 !--CHAO
