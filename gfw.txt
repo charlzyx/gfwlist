@@ -17,8 +17,9 @@
 
 !--CHAO
 ||ant.design
-||baidu.com
-||ip138.com
+||baidu.com/
+||ip138.com/
+||ant.design/
 !--CHAO
 !---------403/451/520 & URL Redirects---------
 !--ehentai
