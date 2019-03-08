@@ -19,6 +19,7 @@
 ||ip138.com/
 ||ant.design/
 ||rescuetime.com/
+||react.org/
 !--CHAO
 !---------403/451/520 & URL Redirects---------
 !--ehentai
