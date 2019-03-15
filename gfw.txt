@@ -20,6 +20,7 @@
 ||ant.design/
 ||rescuetime.com/
 ||react.org/
+||codepen.io/
 !--CHAO
 !---------403/451/520 & URL Redirects---------
 !--ehentai
