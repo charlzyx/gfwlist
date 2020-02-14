@@ -15,12 +15,12 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!--CHAO
+!--CHAO WTF
 ||ant.design/
 ||rescuetime.com/
 ||react.org/
 ||codepen.io/
-!--CHAO
+!--CHAO WTF
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
