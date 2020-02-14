@@ -16,7 +16,6 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !--CHAO
-||ip138.com/
 ||ant.design/
 ||rescuetime.com/
 ||react.org/
